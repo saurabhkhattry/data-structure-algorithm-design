@@ -6,5 +6,5 @@ This repository contains all the code i develop for practising data structures a
 * [Writing READMEs in Markdown](https://github.com/saurabhkhattry/data-structure-algorithm-design/wiki/Writing-READMEs) - A guide to writing READMEs
 
 ## Python
-* [Python Modules](https://github.com/saurabhkhattry/documentation/wiki/Python-Modules) - All python modules used by me till now.
+* [Python Modules](https://github.com/saurabhkhattry/data-structure-algorithm-design/wiki/Python-Modules) - All python modules used by me till now.
 * [Python's Special functions](https://github.com/saurabhkhattry/documentation/wiki/Overloaded-operations,-implemented-with-Python%E2%80%99s-special-methods.) - Overloaded operations.
