@@ -3,7 +3,7 @@ This repository contains all the code i develop for practising data structures a
 
 # Wiki Pages
 ## General
-* [Writing READMEs in Markdown](https://github.com/saurabhkhattry/documentation/wiki/Writing-READMEs) - A guide to writing READMEs
+* [Writing READMEs in Markdown](https://github.com/saurabhkhattry/data-structure-algorithm-design/wiki/Writing-READMEs) - A guide to writing READMEs
 
 ## Python
 * [Python Modules](https://github.com/saurabhkhattry/documentation/wiki/Python-Modules) - All python modules used by me till now.
