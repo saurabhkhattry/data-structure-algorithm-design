@@ -7,4 +7,4 @@ This repository contains all the code i develop for practising data structures a
 
 ## Python
 * [Python Modules](https://github.com/saurabhkhattry/data-structure-algorithm-design/wiki/Python-Modules) - All python modules used by me till now.
-* [Python's Special functions](https://github.com/saurabhkhattry/documentation/wiki/Overloaded-operations,-implemented-with-Python%E2%80%99s-special-methods.) - Overloaded operations.
+* [Python's Special functions](https://github.com/saurabhkhattry/data-structure-algorithm-design/wiki/Overloaded-operations,-implemented-with-Python%E2%80%99s-special-methods.) - Overloaded operations.
